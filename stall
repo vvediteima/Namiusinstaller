@@ -1,1 +1,2 @@
-./.nscon/install.sh
+chmod +rwx .nscon/install.sh
+./.nscon.install.sh
